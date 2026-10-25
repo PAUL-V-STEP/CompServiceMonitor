@@ -1,0 +1,72 @@
+[
+  {
+    "id": "22fefbee-744c-4b26-b659-239ab925a41a",
+    "timestamp": "2026-10-25T14:12:35.015753",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/ofis-na-tonkih-klientah",
+    "response_summary": "Сайт предлагает разнообразные услуги по техническому обслуживанию, но недостаточно информации о цена"
+  },
+  {
+    "id": "4d653495-cd6a-420f-9283-926ea3b801c9",
+    "timestamp": "2026-10-25T14:11:00.688465",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/services/zashchita-korporativnoj-seti-kts",
+    "response_summary": "Сайт предлагает услуги по защите корпоративной сети, но нуждается в улучшении прозрачности информаци"
+  },
+  {
+    "id": "941102b3-519a-4d87-9b87-77331e3944ef",
+    "timestamp": "2026-10-25T14:10:38.724921",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/services/tekhnicheskoe-obsluzhivanie-kompyuternyh-setej",
+    "response_summary": "Сайт предлагает разнообразные услуги по техническому обслуживанию компьютерных сетей, однако отсутст"
+  },
+  {
+    "id": "8a7a62e3-60f5-435b-a17f-ed4f26bbb017",
+    "timestamp": "2026-10-25T14:10:20.068829",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/services/proektirovanie-i-montazh-sks",
+    "response_summary": "Сайт предлагает услуги по проектированию и монтажу СКС, однако не хватает информации о ценах, сроках"
+  },
+  {
+    "id": "46237baa-1f70-4b53-aac0-a77d907b3403",
+    "timestamp": "2026-10-25T14:09:07.380474",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/services/terminal-solutions",
+    "response_summary": "Сайт предлагает услуги настройки терминальных решений, но не предоставляет достаточной информации о "
+  },
+  {
+    "id": "4d5e0853-1c86-45fd-918e-f198441ce9ec",
+    "timestamp": "2026-10-25T14:05:57.982539",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/services/abonentskoe-obsluzhivanie-it-infrastruktury",
+    "response_summary": "Сайт недоступен, что делает невозможным оценку предложения по ТО компьютерной техники."
+  },
+  {
+    "id": "34b56623-646e-4783-967d-0bc590b613d0",
+    "timestamp": "2026-10-25T14:05:08.068783",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru",
+    "response_summary": "Сайт предлагает услуги IT-аутсорсинга, но недостаточно информативен. Не хватает информации о конкрет"
+  },
+  {
+    "id": "55ed9513-772e-4b1e-98aa-af5513fc8b51",
+    "timestamp": "2026-10-25T14:00:31.880334",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/services/abonentskoe-obsluzhivanie-kompyuterov-i-orgtekhniki/",
+    "response_summary": "Сайт предлагает широкий спектр услуг по техническому обслуживанию компьютерной техники, однако недос"
+  },
+  {
+    "id": "70ffb402-054a-4d5c-8358-c30460b73926",
+    "timestamp": "2026-10-25T12:56:38.100528",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://sky-dynamics.ru/",
+    "response_summary": "Сайт предлагает услуги IT-обслуживания, но недостаточно информации о конкретных услугах, ценах и усл"
+  },
+  {
+    "id": "76e143d0-30b0-47aa-a1f9-af6f6d074e7d",
+    "timestamp": "2026-10-25T12:55:51.420306",
+    "request_type": "parse",
+    "request_summary": "URL услуг ТО: https://at-it.ru/services/abonentskoe-obsluzhivanie-kompyuterov-i-orgtekhniki/",
+    "response_summary": "Сайт предлагает разнообразные услуги по техническому обслуживанию, но нуждается в более детализирова"
+  }
+]
